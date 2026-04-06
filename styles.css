@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+img{
+	width: 200px;
+	height: 200px;
+	display:block;
+	margin:0 auto;
+	border-radius: 50%;
+	object-fit: cover;
+	object-position: center 20%;
+}
+h1{
+	text-align:center;
+}
+
+
+
